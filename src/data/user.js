@@ -1,24 +1,22 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Jillian Nylund",
+		name: "Jillian Nylund",
+		email: "jnylund2@illinois.edu",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/jilliann86",
+		linkedin: "https://www.linkedin.com/in/jillian-nylund/",
 		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Jillian Nylund",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Hello :) I am an aspiring software engineer currently look for internships for Summer 2024. I am passionate about Web Development and making accessible, aesthically pleasing products for clients. I am interested in full stack-development and fascinated by the interaction between various softwares. Please stay and look around!",
 	},
 
 	about: {
