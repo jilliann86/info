@@ -20,9 +20,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Who am I?",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"My name is Jillian Nylund and I am currently a Sophomore studying Computer Science at the Unversity of Illinois from Lynchburg, Virginia. I am planning on graduating in December 2025. My interest in Computer Science stems from an initial love of problem-solving. Beginning with the block coding of Scratch, I am entranced by the sheer power, complexity, and ability of putting various pieces of code together to solve a problem. Right now, my interests are in the realm of full-stack development, however I want to explore new fields. Another reasons I love computer science is how large the field is and how many different things you can do in it. I am also passionate about making sure the CS is accessible to all, especially females. I pursue this by participating in Girls Who Code and Women in Computer Science here at UIUC. Outside of class, I enjoy ice skating, reading, and playing with my cats :)",
 	},
 
 	articles: {
