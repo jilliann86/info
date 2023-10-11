@@ -9,19 +9,19 @@ import AllProjects from "../components/projects/allProjects";
 import INFO from "../data/user";
 import SEO from "../data/seo";
 
-import "./styles/projects.css";
+import "./styles/resume.css";
 
-const Projects = () => {
+const Resume = () => {
 	useEffect(() => {
 		window.scrollTo(0, 0);
 	}, []);
 
-	const currentSEO = SEO.find((item) => item.page === "projects");
+	const currentSEO = SEO.find((item) => item.page === "resume");
 
 	return (
 		<React.Fragment>
 			<Helmet>
-				<title>{`Projects | ${INFO.main.title}`}</title>
+				<title>{`Resume | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"
@@ -30,7 +30,7 @@ const Projects = () => {
 			</Helmet>
 
 			<div className="page-content">
-				<NavBar active="projects" />
+				<NavBar active="resume" />
 				<div className="content-wrapper">
 					<div className="projects-logo-container">
 						<div className="projects-logo">
@@ -39,21 +39,11 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							Resume
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							hihi
 						</div>
 
 						<div className="projects-list">
@@ -69,4 +59,4 @@ const Projects = () => {
 	);
 };
 
-export default Projects;
+export default Resume;

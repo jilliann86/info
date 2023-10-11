@@ -25,7 +25,7 @@ Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank
 -   📖 Multi-Page Layout
     -   Home
     -   About
-    -   Projects
+    -   Resume
     -   Articles
     -   Contact
 -   📱 Fully Responsive
