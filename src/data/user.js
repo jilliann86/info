@@ -1,83 +1,63 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Jillian Nylund",
+		name: "Jillian Nylund",
+		email: "jnylund2@illinois.edu",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
+		github: "https://github.com/jilliann86",
+		linkedin: "https://www.linkedin.com/in/jillian-nylund/",
+		instagram: "https://instagram.com/jilliannylund",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Jillian Nylund",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Hello :) I am a college student and aspiring software engineer. I am passionate about Web Development and making accessible, aesthically pleasing products for clients. I am interested in full stack-development and fascinated by the interaction between various softwares. Please stay and look around!",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Who am I?",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"My name is Jillian Nylund and I am currently a Sophomore studying Computer Science at the Unversity of Illinois from Lynchburg, Virginia. I am planning on graduating in December 2025. My interest in Computer Science stems from an initial love of problem-solving. Beginning with the block coding of Scratch, I am entranced by the sheer power, complexity, and ability of putting various pieces of code together to solve a problem. Right now, my interests are in the realm of full-stack development, however I want to explore new fields. Another reasons I love computer science is how large the field is and how many different things you can do in it. I am also passionate about making sure the CS is accessible to all, especially females. I pursue this by participating in Girls Who Code and Women in Computer Science here at UIUC. Outside of class, I enjoy ice skating, reading, and playing with my cats :)",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "What's got me interested?",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Some of my recent inquiries and ideas",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Color Picker",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Clone of the website Coolers using Ruby on Rails. Allows users to pick a color pallette by pressing space. Ability to save hex codes to clipboard. Will be hosted soon!",
+			logo: "https://raw.githubusercontent.com/jilliann86/pictures/main/Coolers.png?token=GHSAT0AAAAAACGWP6BWYHAHE5HL52NV333WZJIPY4Q",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/jilliann86/Color-Picker-Coolers-Clone"
 		},
 
 		{
-			title: "Project 2",
+			title: "This Website!",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Personal website to highlight and track my personal abilities, experiences, projects, and articles. Made with React (HTML/CSS, JavaScript). Always a work in progess!",
+			logo: "https://raw.githubusercontent.com/jilliann86/pictures/main/logo.png?token=GHSAT0AAAAAACGWP6BWBXVXUGO5MP4PEZGYZJIPZQQ",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/jilliann86/personal-website",
 		},
 
 		{
-			title: "Project 3",
+			title: "The Effect of Grain Size on Temperature in the Protoplanetary Disk IM Lup",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Research project that predicted grain sizes in protoplanetary disks by running Monte Carlo simulations in Python. •	Developed Python code utilizing the RADMC3D library to map collected data. •	Studied with mentor from University of Virginia Department of Astronomy and won multiple awards, including Virginia Junior Science and Humanities Symposium Physical Science Category",
+			logo: "https://raw.githubusercontent.com/jilliann86/protoplanetarydiskwork/main/5e1Temp.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+			link: "https://github.com/jilliann86/protoplanetarydiskwork",
+		}
 	],
 };
 
