@@ -9,14 +9,14 @@ const INFO = {
 	socials: {
 		github: "https://github.com/jilliann86",
 		linkedin: "https://www.linkedin.com/in/jillian-nylund/",
-		instagram: "https://instagram.com/",
+		instagram: "https://instagram.com/jilliannylund",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
 		title: "Jillian Nylund",
 		description:
-			"Hello :) I am an aspiring software engineer currently look for internships for Summer 2024. I am passionate about Web Development and making accessible, aesthically pleasing products for clients. I am interested in full stack-development and fascinated by the interaction between various softwares. Please stay and look around!",
+			"Hello :) I am a college student and aspiring software engineer. I am passionate about Web Development and making accessible, aesthically pleasing products for clients. I am interested in full stack-development and fascinated by the interaction between various softwares. Please stay and look around!",
 	},
 
 	about: {
@@ -26,56 +26,38 @@ const INFO = {
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "What's got me interested?",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Some of my recent inquiries and ideas",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Color Picker",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Clone of the website Coolers using Ruby on Rails. Allows users to pick a color pallette by pressing space. Ability to save hex codes to clipboard. Will be hosted soon!",
+			logo: "https://raw.githubusercontent.com/jilliann86/pictures/main/Coolers.png?token=GHSAT0AAAAAACGWP6BWYHAHE5HL52NV333WZJIPY4Q",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/jilliann86/Color-Picker-Coolers-Clone"
 		},
 
 		{
-			title: "Project 2",
+			title: "This Website!",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Personal website to highlight and track my personal abilities, experiences, projects, and articles. Made with React (HTML/CSS, JavaScript). Always a work in progess!",
+			logo: "https://raw.githubusercontent.com/jilliann86/pictures/main/logo.png?token=GHSAT0AAAAAACGWP6BWBXVXUGO5MP4PEZGYZJIPZQQ",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/jilliann86/personal-website",
 		},
 
 		{
-			title: "Project 3",
+			title: "The Effect of Grain Size on Temperature in the Protoplanetary Disk IM Lup",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"Research project that predicted grain sizes in protoplanetary disks by running Monte Carlo simulations in Python. •	Developed Python code utilizing the RADMC3D library to map collected data. •	Studied with mentor from University of Virginia Department of Astronomy and won multiple awards, including Virginia Junior Science and Humanities Symposium Physical Science Category",
+			logo: "https://raw.githubusercontent.com/jilliann86/protoplanetarydiskwork/main/5e1Temp.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+			link: "https://github.com/jilliann86/protoplanetarydiskwork",
+		}
 	],
 };
 
