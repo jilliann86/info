@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jilliann86.github.io/static/css/main.81a49914.css",
+    "main.js": "/jilliann86.github.io/static/js/main.814b63f6.js",
+    "static/js/787.512dd3f2.chunk.js": "/jilliann86.github.io/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/jilliann86.github.io/index.html",
+    "main.81a49914.css.map": "/jilliann86.github.io/static/css/main.81a49914.css.map",
+    "main.814b63f6.js.map": "/jilliann86.github.io/static/js/main.814b63f6.js.map",
+    "787.512dd3f2.chunk.js.map": "/jilliann86.github.io/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a49914.css",
+    "static/js/main.814b63f6.js"
+  ]
+}
